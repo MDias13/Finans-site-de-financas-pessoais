@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Roboto:wght@300;400&display=swap');
+
+.size-button {
+    width: 10rem;
+    border-radius: 10px;
+    
+}
+
+.font-title-conteudo {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: rgb(46, 44, 44);
+}
+.font-text-conteudo {
+    font-family: 'Roboto', sans-serif;
+    font-weight:  400;
+    font-size: 1.1rem;
+    color: rgb(46, 44, 44);
+}
+.font-title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+.font-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight:  400;
+    font-size: 1.1rem;
+    color: #fff;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+    overflow: hidden;
+}
+.foto-section2 {
+    height: 400px;
+}
+.button-gradiente {
+background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 3rem;
+width: 10rem;
+border:none;
+}
+.button-gradiente:hover {
+    opacity: .95;
+    border: solid 1px #2C5364;
+}
+.bg {
+   background-color: #f5f5f5;
+}
+.animation-title {
+    animation-duration: 2s;
+    animation-delay: 200ms;
+}
+.animation-title2 {
+    animation-duration: 1.4s;
+    
+}
+
